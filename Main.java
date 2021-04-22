@@ -1,4 +1,4 @@
-/*
+/**
 * This program gets the length of logs from the user's input,
 * calculates and display how much logs the truck can carry to the output.
 *
